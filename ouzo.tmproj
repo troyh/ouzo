@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentDocument</key>
+	<string>mem.h</string>
+	<key>documents</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>memset.cc</string>
+			<key>lastUsed</key>
+			<date>2009-01-30T21:49:20Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>mem.h</string>
+			<key>lastUsed</key>
+			<date>2009-01-30T21:49:33Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>memget.cc</string>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>Makefile</string>
+			<key>selected</key>
+			<true/>
+		</dict>
+	</array>
+	<key>fileHierarchyDrawerWidth</key>
+	<integer>200</integer>
+	<key>metaData</key>
+	<dict>
+		<key>mem.h</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>20</integer>
+				<key>line</key>
+				<integer>4</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>openDocuments</key>
+	<array>
+		<string>mem.h</string>
+	</array>
+	<key>showFileHierarchyDrawer</key>
+	<true/>
+	<key>windowFrame</key>
+	<string>{{1040, 111}, {1404, 1449}}</string>
+</dict>
+</plist>
